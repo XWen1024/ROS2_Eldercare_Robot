@@ -1,14 +1,11 @@
 # 基于 ROS 2 与端云协同架构的具身智能助老机器人
-**Project LINK · 灵犀 · 唤醒词：小灵**
-
-> 目标赛事：宋庆龄少年儿童发明奖
+**Project LINK · 灵犀**
 
 ---
 
 ## 实车
 
-<!-- 将实车照片放在这里，替换下方占位 -->
-> 📷 实车图片待补充
+![实车图片](https://cdn.jsdelivr.net/gh/XWen1024/ROS2_Eldercare_Robot@main/vehicle_diagram.png)
 
 ---
 
@@ -196,8 +193,7 @@ graph TD
 
 ## SLAM 建图演示
 
-<!-- 将建图过程的 GIF 放在这里 -->
-> 🚧 GIF 待补充 — 将 SLAM 建图可视化录屏导出为 GIF 后替换此处
+![SLAM 建图演示](https://cdn.jsdelivr.net/gh/XWen1024/ROS2_Eldercare_Robot@main/demo.gif)
 
 ---
 
