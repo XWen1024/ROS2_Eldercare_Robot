@@ -5,7 +5,7 @@
 
 ## 实车
 
-![实车图片](https://cdn.jsdelivr.net/gh/XWen1024/ROS2_Eldercare_Robot@main/vehicle_diagram.png)
+<img src="https://cdn.jsdelivr.net/gh/XWen1024/ROS2_Eldercare_Robot@main/vehicle_diagram.png" width="600"/>
 
 ---
 
